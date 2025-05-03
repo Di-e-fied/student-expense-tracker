@@ -202,7 +202,4 @@ Deeha Giri
 - Flask Documentation
 - SQLite Documentation
 - Docker Documentation
-- GitHub Actions Documentation # student-expense-tracker
-# student-expense-tracker
-# student-expense-tracker
-# student-expense-tracker
+- GitHub Actions Documentation
