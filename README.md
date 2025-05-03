@@ -1,4 +1,4 @@
-# Expense Tracker 💰
+# Expense Tracker 💰 by Deeha Giri (20231BCI0016) :
 
 A modern web application for tracking personal expenses built with Flask, SQLite, and a clean, responsive UI.
 
@@ -33,8 +33,8 @@ A modern web application for tracking personal expenses built with Flask, SQLite
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
+   git clone https://github.com/Di-e-fied/student-expense-tracker.git
+   cd student-expense-tracker
    ```
 
 2. Create and activate virtual environment:
@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Sujal GP
+Deeha Giri
 
 ## Acknowledgments
 
